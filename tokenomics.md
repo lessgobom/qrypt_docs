@@ -8,9 +8,13 @@
 
 ## 📊 Supply and Distribution:  
 - **Total Supply:** 1,000,000,000 $QRYPT 🌐  
-- **Distribution:**  
-  - **40%** Public Sale 📈  
-  - **20%** Team Allocation (2-year vesting) 🏢  
-  - **20%** Staking Rewards 💎  
-  - **10%** Partnerships 🌍  
-  - **10%** Reserve Fund 💼  
+## 🛠 Distribution Breakdown
+- **95% Public Supply** 🌍  
+  - Allocated for public sale, staking rewards, and liquidity pools.  
+  - Ensures accessibility and decentralized ownership.  
+
+- **5% Reserved for Ecosystem Growth** 🌱  
+  - **Team & Development:** 2% 💼 (Vested over 2 years).  
+  - **Marketing & Partnerships:** 1.5% 📢 (Promotions and collaborations).  
+  - **Reserve Fund:** 1% 💎 (Emergency and strategic initiatives).  
+  - **Advisors:** 0.5% 🧠 (For expert guidance and consulting).  
