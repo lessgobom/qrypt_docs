@@ -6,8 +6,8 @@
    - **Name:** QRYPT  
    - **Symbol:** $QRYPT  
    - **Decimals:** 18  
-   - **Contract Address:** 0x...  
+   - **Contract Address:** Coming soon...
 
 ## 🛒 Buying $QRYPT:  
-- **Decentralized Exchanges (DEXs):** Uniswap, PancakeSwap 🛡.  
-- Supported pairs: **ETH/QRYPT**, **USDC/QRYPT** 💱.  
+- **PumpFun, Decentralized Exchanges (DEXs) (Coming soon...):** Uniswap, PancakeSwap 🛡.  
+- Supported pairs: **SOL/QRYPT**, **USDC/QRYPT** 💱.  
