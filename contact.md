@@ -1,5 +1,5 @@
 # 🚀 Welcome to QRYPT Documentation  
-🔗 **CA: Hj6YuSaDdxb1fYv5ZrvuEm77wqwA8E4NSrpjRfvYpump**  
+🔗 **CA: Coming soon...**  
 
 ## 🔒 Future-Proof Security for the Quantum Era  
 Welcome to **QRYPT**, the cutting-edge crypto project designed to resist quantum computing attacks through **quantum hashing algorithms**.  
